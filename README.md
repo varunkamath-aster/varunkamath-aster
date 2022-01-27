@@ -1,5 +1,5 @@
-### 👋 Hi, I’m Varun Kamath
-#### 👀 Intern at ASTER Labs in the Twin Cities
+### 👋 Varun Kamath
+#### 👀 Research Scientist at ASTER Labs in the Twin Cities
 #### 📫 varun.kamath@asterlabs.com
 
 #### Languages
