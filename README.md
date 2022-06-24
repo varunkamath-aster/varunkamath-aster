@@ -3,6 +3,6 @@
 #### 📫 varun.kamath@asterlabs.com
 
 #### Languages
- - Proficient in MATLAB
- - Experienced in Python, C++, and Java
- - Developing skills in SQL and JS
+ - Proficient in MATLAB and Python
+ - Experienced in C++ and Java
+ - Developing skills in JS, ML, and Scala
